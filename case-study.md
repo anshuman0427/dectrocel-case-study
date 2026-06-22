@@ -35,18 +35,17 @@
 
 ## 2. Company Profile
 
-| Attribute | Detail | Source/Confidence |
+| Attribute | Detail | 
 |---|---|---|
-| Legal name | Dectrocel Healthcare and Research Pvt. Ltd. | Website — High |
-| CIN | U74999UP2020PTC132534 | Website — High |
-| Founded | 2020 (per CIN; site copyright shows 2019, suggesting brand/domain predates formal incorporation) | Inferred — Medium |
-| HQ | 212C, S-2, Eldeco, Raibareli Road, Lucknow, Uttar Pradesh 226025; secondary office at SGPGI Medtech campus | Website — High |
-| Geographic presence | India only; no evidence of international operations | Inferred from absence of evidence — Medium |
-| Mission | "Making the world a healthier place" | Website — High |
-| Business model | B2B2C — sells/licenses AI diagnostic software to healthcare providers, who use it on patients; per-scan or platform-access model implied but not disclosed | Inferred — Low |
-| Funding history | Not disclosed anywhere on either site or in press search | Data unavailable |
-| Org structure | 4 named leaders (below); no broader team or headcount disclosed | Website — High for named individuals; Low for total headcount |
-
+| Legal name | Dectrocel Healthcare and Research Pvt. Ltd. | 
+| CIN | U74999UP2020PTC132534 |
+| Founded | 2020 (per CIN; site copyright shows 2019, suggesting brand/domain predates formal incorporation) | 
+| HQ | 212C, S-2, Eldeco, Raibareli Road, Lucknow, Uttar Pradesh 226025; secondary office at SGPGI Medtech campus | 
+| Geographic presence | India only; no evidence of international operations | 
+| Mission | "Making the world a healthier place" | 
+| Business model | B2B2C — sells/licenses AI diagnostic software to healthcare providers, who use it on patients; per-scan or platform-access model implied but not disclosed | 
+| Funding history | Not disclosed anywhere on either site or in press search | 
+| Org structure | 4 named leaders (below); no broader team or headcount disclosed | 
 **Leadership team** *(Source: aidigitalhealth.com/about-us — High confidence)*:
 - **Dr. Ankit Shukla** — Founder, Director R&D. PhD in AI/ML applied to medicine, University of Queensland, Brisbane.
 - **Saumya Shukla** — Co-Founder & CEO, Director Business Communications. Pursuing PhD in Health Economics (SGPGI). Background in health policy and access-to-care.
