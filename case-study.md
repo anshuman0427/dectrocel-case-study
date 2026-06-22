@@ -22,7 +22,7 @@
 **Major strengths and risks (summary).**
 
 | Strengths | Risks |
-|---|---|
+|---|
 | Founder-market fit (AI/ML PhD + health policy expert) | No visible funding; bootstrapped scale unlikely to match well-capitalized rivals |
 | Real academic/clinical partnership (SGPGI Lucknow) | Outdated/fragmented web presence undermines credibility with enterprise buyers |
 | Aligned with WHO-endorsed CAD-for-TB guidance | No visible regulatory approvals (CDSCO/FDA/CE) disclosed on either site |
