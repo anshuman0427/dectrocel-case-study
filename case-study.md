@@ -36,7 +36,7 @@
 ## 2. Company Profile
 
 | Attribute | Detail | 
-|---|---|---|
+|---|---|
 | Legal name | Dectrocel Healthcare and Research Pvt. Ltd. | 
 | CIN | U74999UP2020PTC132534 |
 | Founded | 2020 (per CIN; site copyright shows 2019, suggesting brand/domain predates formal incorporation) | 
