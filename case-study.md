@@ -45,7 +45,8 @@
 | Mission | "Making the world a healthier place" | 
 | Business model | B2B2C — sells/licenses AI diagnostic software to healthcare providers, who use it on patients; per-scan or platform-access model implied but not disclosed | 
 | Funding history | Not disclosed anywhere on either site or in press search | 
-| Org structure | 4 named leaders (below); no broader team or headcount disclosed | 
+| Org structure | 4 named leaders (below); no broader team or headcount disclosed |
+
 **Leadership team** *(Source: aidigitalhealth.com/about-us — High confidence)*:
 - **Dr. Ankit Shukla** — Founder, Director R&D. PhD in AI/ML applied to medicine, University of Queensland, Brisbane.
 - **Saumya Shukla** — Co-Founder & CEO, Director Business Communications. Pursuing PhD in Health Economics (SGPGI). Background in health policy and access-to-care.
